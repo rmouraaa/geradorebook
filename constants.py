@@ -1,6 +1,6 @@
 # constants.py
 
-OPENAI_KEY = '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'
+OPENAI_KEY = ''
 CHARACTER = 'Agora você é um escritor/redator de ebooks com temas interessantes, uma linguagem moderna e comercial.'
 
 DESCRIPTION = 'Agora você é um escritor/redator de ebooks com temas interessantes, uma linguagem moderna e comercial.'
